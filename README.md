@@ -1,7 +1,13 @@
 ![Header](./github-banner-profile.png)
 
 # 💫 About Me:
-Hey there, fellow tech explorers! I'm Ella Bach, a Web Development student at NAIT with dreams as big as the digital frontier itself. <br><br>Currently, I'm knee-deep in the Notion Clone Project, where I'm weaving magic with React and unraveling the mysteries of TypeScript. It's not just about building a clone; it's about crafting digital wonders and shaping the future, one line of code at a time.<br><br>Fun fact: my first degree was a whole world away from tech, but here I am, diving headfirst into the world of code!<br><br>Join me on this exhilarating journey through the ever-shifting landscape of web development. Let's turn dreams into reality and code our way to greatness together!
+Hey there, I'm Ella, a Web Development student at NAIT with dreams as big as the digital frontier itself. 
+<br><br>
+🔭 I'm currently working on my side project "Notion Clone"
+🌱 I'm studying React and TypeScript
+🙌 I'm looking to collaborate on open source projects
+🎯 Hobbies: I love to play Indie game, Simulation Game.
+⚡ My first degree was a whole world away from tech, but here I am, diving headfirst into the world of code!
 
 
 ## 🌐 Socials:
