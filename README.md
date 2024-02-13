@@ -3,10 +3,10 @@
 # 💫 About Me:
 Hey there, I'm Ella, a Web Development student at NAIT with dreams as big as the digital frontier itself. 
 <br><br>
-🔭 I'm currently working on my side project "Notion Clone"<br><br>
-🌱 I'm studying React and TypeScript<br><br>
-🙌 I'm looking to collaborate on open source projects<br><br>
-🎯 Hobbies: I love to play Indie game, Simulation Game.<br><br>
+🔭 I'm currently working on my side project "Notion Clone"<br>
+🌱 I'm studying React and TypeScript<br>
+🙌 I'm looking to collaborate on open source projects<br>
+🎯 Hobbies: I love to play Indie game, Simulation Game.<br>
 ⚡ My first degree was a whole world away from tech, but here I am, diving headfirst into the world of code!
 
 
