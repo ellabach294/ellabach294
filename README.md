@@ -1,9 +1,9 @@
 ![Header](./github-banner-profile.png)
 
 # 💫 About Me:
-Hey there 👋, I'm Ella, a Web Development student at NAIT with dreams as big as the digital frontier itself. 
+Hey there 👋, I'm Ella, a frestly graduated Web Development student at NAIT with dreams as big as the digital frontier itself. 
 <br><br>
-🔭 I'm currently working on my side project "Notion Clone"<br>
+🔭 I'm currently working on my side project "Desktop Sticky Note App" build with Electron and Vite in React Framework.<br>
 🌱 I'm studying React and TypeScript<br>
 🙌 I'm looking to collaborate on open source projects<br>
 🎯 Hobbies: I love to play Indie game, Simulation Game.<br>
